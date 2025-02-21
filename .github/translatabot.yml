@@ -1,5 +1,0 @@
-version: 1
-defaultPath: mfp_extremesportshop/de.lua # Path to the default translation file
-languages:
-  - relativePath: mfp_extremesportshop/fr.lua # Relative path to the auto-translated file
-    language: French # English name of the language to be translated to.
