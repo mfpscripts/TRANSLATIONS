@@ -1,6 +1,6 @@
 Translation = {
     ['de'] = {
-        ['open_menu'] = 'Drücke ~o~E~s~ um mit dem Händler zu sprechen',
+        ['open_menu'] = 'Drücke ~o~E~s~ um mit dem Verkäufer zu sprechen',
 		['weapon_menu_item_label'] = '~g~Kaufen ~s~oder ~r~Verkaufen~s~ Sie diese Ware.',
 		--- HAUPTMENU
 		['dealer'] = 'Händler',
