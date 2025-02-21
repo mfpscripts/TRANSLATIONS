@@ -1,14 +1,11 @@
 Translation = {
     ['de'] = {
-        ['open_menu'] = 'Drücke ~o~E~s~ um mit dem Händler zu reden',
+        ['open_menu'] = 'Drücke ~o~E~s~ um mit dem Händler zu sprechen',
 		['weapon_menu_item_label'] = '~g~Kaufen ~s~oder ~r~Verkaufen~s~ Sie diese Ware.',
 		--- HAUPTMENU
 		['dealer'] = 'Händler',
-		['dealer_subtitle'] = 'Dealer des Vertrauens',
 		['parachute'] = 'Fallschirm',
-		['parachute_subtitle'] = 'Kaufen oder Verkaufen Sie ~o~Drogen~s~.',
-	    ['divingmask'] = 'Tauchermaske',
-	    ['divingmask_subtitle'] = 'Kaufen oder Verkaufen Sie ~o~Schießeisen~s~.',
+	   	['divingmask'] = 'Tauchermaske',
 		--------------------------------------
 		['buy'] = 'Kaufen',
 		['sell'] = 'Verkaufen',
