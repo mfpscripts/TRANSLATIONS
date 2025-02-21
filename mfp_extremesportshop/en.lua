@@ -4,6 +4,7 @@ Translation = {
 		['weapon_menu_item_label'] = '~g~Buy~s~ or ~r~sell ~s~this ware.',
 		--- MAIN MENU
 		['dealer'] = 'Dealer',
+		['dealer_subtitle'] = 'Dealer of extremesport things',
 		['parachute'] = 'Parachute',
 	    	['divingmask'] = 'Divingmask',
 		--------------------
