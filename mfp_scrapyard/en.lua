@@ -1,0 +1,12 @@
+['en'] = { -- english
+      ['open_menu'] = 'Press ~INPUT_PICKUP~ to talk to the worker',
+      ['seller'] = 'Salesman',
+      ['sell_but'] = 'Sell scrap',
+      ['sell_info'] = 'Sell all ~o~scrap~s~ you picked up! Prices can denature...',
+      ['sell_worked_not'] = 'You sold ~o~scrap~s~ to me worth ~g~%s~s~ $.',
+      ['sell_failed_not'] = 'You do ~r~not have any ~s~scrap with you that you could turn into money!',
+      ['scrapyard'] = 'Scrapyard',
+      ['search'] = 'Press E to pick up scrap metal',
+      ['search_scrap'] = 'Scrap metal collection',
+      ['search_scrap_not'] = 'You found ~o~scrap~s~, go and sell it to me quickly!', 
+   },
