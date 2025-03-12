@@ -1,4 +1,3 @@
-Translation = {
     ['de'] = {
         ['open_menu'] = 'Drücke ~o~E~s~ um mit dem Verkäufer zu sprechen',
 		['weapon_menu_item_label'] = '~g~Kaufen ~s~oder ~r~Verkaufen~s~ Sie diese Ware.',
@@ -18,5 +17,4 @@ Translation = {
 		['buy_true'] = 'Du kaufst ~b~%s~s~ für ~g~$%s,00~s~',
 		['sell_false'] = '~r~Du kannst keine/-n %s verkaufen, wenn du keine hast!',
 		['buy_false'] = 'Du kannst dir dies ~r~nicht~s~ leisten. Es werden ~r~$%s,00~s~ benötigt!',
-    }
-}
+    },
