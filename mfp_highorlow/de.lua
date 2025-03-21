@@ -1,4 +1,4 @@
-['de'] = {
+return {
 	['open_menu'] = 'Drücke ~INPUT_CONTEXT~ um ~p~HighOrLow ~w~zu spielen',
 	['highorlow'] = 'Ist die nächste Karte höher oder tiefer?',
 	['higher'] = 'Höher',
@@ -8,4 +8,12 @@
 	['won'] = '~g~Du hast gewonnen!~w~\nDie nächste Karte ist ',
 	['lost'] = '~p~Du hast verloren!~w~\nDie gezogene Karte ist ',
 	['nomoney'] = '~p~Spiel abgebrochen\n~w~Du hast nicht genug Geld um zu spielen.',
-},
+	['Clubs'] = 'Kreuz',
+	['Spades'] = 'Pik',
+	['Hearts'] = 'Herz',
+	['Diamonds'] = 'Karo',
+	['Jack'] = 'Bube',
+	['Queen'] = 'Dame',
+	['King'] = 'König',
+	['Ace'] = 'Ass',	
+}
